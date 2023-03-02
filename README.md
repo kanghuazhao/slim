@@ -31,4 +31,4 @@
 
 
 ## 2 CODE
-comming soon
+coming soon
